@@ -1,7 +1,7 @@
 # stat628-server-capacity
 
 ## Description
-This is a group work of STAT628. It builds a model to predict the time that a hard drive reaches its maximum capacity.
+This is a group work of STAT628, instructed by Professor Hyunseung Kang. It builds a model to predict the time that a hard drive reaches its maximum capacity.
 
 ## Methods
 Main part of model is ARIMA, in order to increase robustness, we add piecewise linear regression incase ARIMA model fails.
